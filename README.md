@@ -131,24 +131,6 @@ Generates the transpose of a matrix by interchanging rows and columns.
 
 ---
 
-## How to Run
-
-1. Save the program as `experiment8.cpp`  
-2. Open terminal/command prompt in the saved directory.  
-3. Compile the program using:  
-
-   ```bash
-   g++ experiment8.cpp -o experiment8
-   ```  
-
-4. Run the program with:  
-
-   ```bash
-   ./experiment8
-   ```  
-
----
-
 ## Conclusion  
 Through this experiment, the concept of **2D arrays in C++** was studied and implemented successfully. Various matrix operations such as **display, addition, multiplication, diagonal sum, and transpose** were carried out using nested loops and array traversal techniques. The experiment highlights the importance of arrays in handling tabular/matrix-based data and their applications in mathematics, graphics, and computing.
 
